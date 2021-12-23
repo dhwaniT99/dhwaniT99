@@ -5,4 +5,4 @@
 !-->
 
 - 🔭 Graduate Student of Data Analytics Engineering at Northeastern University. Completed my undergraduation in  Electronics & Communication in BVM Engineering College, India. Enthusiastic in developing and working on AI based applications for education on Raspberry Pi based mobile platform and deep learning related innovations. I love to be part of Maker activities. I have an avid interest to contribute to this changing world by my efforts on AI for connected world.
-- For more details please check out my webiste: https://dhwanit99.github.io/
+- For more details feel free to go through my repos or more info can be found on my website: https://dhwanit99.github.io/
